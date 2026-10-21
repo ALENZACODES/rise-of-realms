@@ -1,0 +1,78 @@
+{
+  "ages": [
+    "ancient",
+    "industrial",
+    "digital"
+  ],
+  "buildingNames": [
+    "capital",
+    "market",
+    "school",
+    "barracks",
+    "fort",
+    "monument"
+  ],
+  "wonders": [
+    "great-pyramids",
+    "great-library",
+    "grand-railway",
+    "steel-foundry",
+    "global-internet",
+    "mars-colony",
+    "raider-camp"
+  ],
+  "resources": [
+    "gems",
+    "ancient-ruins",
+    "oil",
+    "silicon"
+  ],
+  "terrain": [
+    "plains",
+    "forest",
+    "hills",
+    "desert",
+    "mountains",
+    "sea"
+  ],
+  "effects": [
+    "territory-border-red",
+    "territory-border-blue",
+    "claim-arrow",
+    "attack-arrow",
+    "building-preview",
+    "leader-pin",
+    "troop-badge",
+    "flash-selection"
+  ],
+  "iconNames": [
+    "gold",
+    "science",
+    "troops",
+    "fame",
+    "moves",
+    "clock",
+    "flag",
+    "hammer",
+    "crossed-swords",
+    "defense-shield",
+    "scroll",
+    "chat-bubble",
+    "players",
+    "castle",
+    "map",
+    "gift-box",
+    "peace-branch",
+    "gold-star",
+    "rocket",
+    "trophy",
+    "skull",
+    "eye",
+    "bot",
+    "check-mark",
+    "offline-zz",
+    "newspaper",
+    "age-up-arrow",
+    "menu"
+  ]
+}

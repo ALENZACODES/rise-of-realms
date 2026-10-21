@@ -1,0 +1,101 @@
+{
+  "generatedAt": "2026-10-04T19:13:09.580Z",
+  "source": "Generated from images/art_catalog.json by tools/export_images.js. Game art remains code-drawn in js/art.js and js/render.js.",
+  "assets": {
+    "buildings": {
+      "capital": {
+        "ancient": "images/buildings/capital/ancient.svg",
+        "industrial": "images/buildings/capital/industrial.svg",
+        "digital": "images/buildings/capital/digital.svg"
+      },
+      "market": {
+        "ancient": "images/buildings/market/ancient.svg",
+        "industrial": "images/buildings/market/industrial.svg",
+        "digital": "images/buildings/market/digital.svg"
+      },
+      "school": {
+        "ancient": "images/buildings/school/ancient.svg",
+        "industrial": "images/buildings/school/industrial.svg",
+        "digital": "images/buildings/school/digital.svg"
+      },
+      "barracks": {
+        "ancient": "images/buildings/barracks/ancient.svg",
+        "industrial": "images/buildings/barracks/industrial.svg",
+        "digital": "images/buildings/barracks/digital.svg"
+      },
+      "fort": {
+        "ancient": "images/buildings/fort/ancient.svg",
+        "industrial": "images/buildings/fort/industrial.svg",
+        "digital": "images/buildings/fort/digital.svg"
+      },
+      "monument": {
+        "ancient": "images/buildings/monument/ancient.svg",
+        "industrial": "images/buildings/monument/industrial.svg",
+        "digital": "images/buildings/monument/digital.svg"
+      }
+    },
+    "wonders": {
+      "great-pyramids": "images/wonders/great-pyramids.svg",
+      "great-library": "images/wonders/great-library.svg",
+      "grand-railway": "images/wonders/grand-railway.svg",
+      "steel-foundry": "images/wonders/steel-foundry.svg",
+      "global-internet": "images/wonders/global-internet.svg",
+      "mars-colony": "images/wonders/mars-colony.svg",
+      "raider-camp": "images/wonders/raider-camp.svg"
+    },
+    "resources": {
+      "gems": "images/resources/gems.svg",
+      "ancient-ruins": "images/resources/ancient-ruins.svg",
+      "oil": "images/resources/oil.svg",
+      "silicon": "images/resources/silicon.svg"
+    },
+    "terrain": {
+      "plains": "images/terrain/plains.svg",
+      "forest": "images/terrain/forest.svg",
+      "hills": "images/terrain/hills.svg",
+      "desert": "images/terrain/desert.svg",
+      "mountains": "images/terrain/mountains.svg",
+      "sea": "images/terrain/sea.svg"
+    },
+    "effects": {
+      "territory-border-red": "images/effects/territory-border-red.svg",
+      "territory-border-blue": "images/effects/territory-border-blue.svg",
+      "claim-arrow": "images/effects/claim-arrow.svg",
+      "attack-arrow": "images/effects/attack-arrow.svg",
+      "building-preview": "images/effects/building-preview.svg",
+      "leader-pin": "images/effects/leader-pin.svg",
+      "troop-badge": "images/effects/troop-badge.svg",
+      "flash-selection": "images/effects/flash-selection.svg"
+    },
+    "icons": {
+      "gold": "images/icons/gold.svg",
+      "science": "images/icons/science.svg",
+      "troops": "images/icons/troops.svg",
+      "fame": "images/icons/fame.svg",
+      "moves": "images/icons/moves.svg",
+      "clock": "images/icons/clock.svg",
+      "flag": "images/icons/flag.svg",
+      "hammer": "images/icons/hammer.svg",
+      "crossed-swords": "images/icons/crossed-swords.svg",
+      "defense-shield": "images/icons/defense-shield.svg",
+      "scroll": "images/icons/scroll.svg",
+      "chat-bubble": "images/icons/chat-bubble.svg",
+      "players": "images/icons/players.svg",
+      "castle": "images/icons/castle.svg",
+      "map": "images/icons/map.svg",
+      "gift-box": "images/icons/gift-box.svg",
+      "peace-branch": "images/icons/peace-branch.svg",
+      "gold-star": "images/icons/gold-star.svg",
+      "rocket": "images/icons/rocket.svg",
+      "trophy": "images/icons/trophy.svg",
+      "skull": "images/icons/skull.svg",
+      "eye": "images/icons/eye.svg",
+      "bot": "images/icons/bot.svg",
+      "check-mark": "images/icons/check-mark.svg",
+      "offline-zz": "images/icons/offline-zz.svg",
+      "newspaper": "images/icons/newspaper.svg",
+      "age-up-arrow": "images/icons/age-up-arrow.svg",
+      "menu": "images/icons/menu.svg"
+    }
+  }
+}
