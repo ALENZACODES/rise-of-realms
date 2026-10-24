@@ -1,3 +1,5 @@
+![Rise of Realms: a 15-minute multiplayer strategy game](assets/banner.png)
+
 # Rise of Realms
 
 **A 15-minute multiplayer strategy game from the Ancient Age to a Mars colony. Room codes, bots, no login. Play it in your browser.**
@@ -15,6 +17,8 @@ A 15-minute strategy game for friends. Lead your nation from the Ancient Age to 
 Created by John Khan.
 
 © 2026 John Khan. All rights reserved. This is the published game only; see `LICENSE`.
+
+![Rise of Realms start screen: play with friends by room code, or against bots](assets/screenshot-desktop.png)
 
 ---
 
